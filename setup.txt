@@ -1,0 +1,49 @@
+------------ Python README ----------------
+
+Mel,
+To start coding in python open Ubuntu terminal and type 'codedir' and press enter.
+This should look like the below when compelted:
+-------------------------------------------------------
+melissa@HUBBARD6:~:$ codedir
+melissa@HUBBARD6:Learning Python:$
+-------------------------------------------------------
+
+From here, you can run 'python3' and press enter.
+
+this should look like
+-------------------------------------------------------
+melissa@HUBBARD6:Learning Python:$ python3
+-------------------------------------------------------
+
+and a python interpreter will open for you to use.
+
+The new boston will start you off with this interpeter in his first few videos. He will then move you to pycharm.
+Pycharm will create python files and have a built in way to do what we can do in ubuntu terminal.
+
+You can try it that or how I do it. Follow the commands below:
+
+1. ls
+
+this command list your directory contents. That is the same as looking at what is in the 'Learning Python' folder in your Documents folder
+
+2. cd my-first-proj/
+
+this command means change directory to my-first-project. This is like clicking on the my-first-project folder in the 'Learning Python' folder in your Documents folder.
+
+3. python3 myFirstPython.py
+
+
+this calls a python script in a python file. This is denoted by the '.py' field.
+
+You should see an output similiar to below
+-------------------------------------------------------
+melissa@HUBBARD6:Learning Python:$ ls
+total 0
+drwxrwxrwx 1 melissa melissa 4096 Nov 20 21:17 .
+drwxrwxrwx 1 melissa melissa 4096 Nov 20 20:43 ..
+drwxrwxrwx 1 melissa melissa 4096 Nov 20 21:17 my-first-proj
+melissa@HUBBARD6:Learning Python:$ cd my-first-proj/
+melissa@HUBBARD6:my-first-proj:$ python3 myFirstPython.py
+Hello World!
+Give me a number:
+-------------------------------------------------------
